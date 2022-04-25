@@ -1,0 +1,6 @@
+.DS_Store
+cypress/screenshots
+cypress/videos
+node_modules
+.npmrc
+package-lock.json
